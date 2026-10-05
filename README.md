@@ -12,3 +12,5 @@ Credit Positron 3D Team and LDO Motors; original V3 by Kralyn. Hardware and docu
 Native CNC slot and hinge geometry is retained. Hand-carried parts, including the loose thumbscrews inserted for storage, use illustrative paths. The master CAD contains no flexible belt or wiring models. Display surfaces are rebuilt from native CAD; only small fasteners use reduction after geometry checks. Six built-in print support solids are omitted from the fan nozzle, both spring retaining rings and Z drive housing. The two functional spool-holder pieces remain. Four invalid native reference leaves remain reference geometry. Finite structural checks are not physical clearance certification.
 
 `site/ASSET_INDEX.json` records exact compressed and decoded hashes. Build with `python scripts/build_site.py --output _site`.
+
+Storage display: the V holder is turned over so its spring fittings face upward. The original removed thumb screws are independently inserted into the native left/right storage bores. Hand-carried paths are illustrative; native J-slot and source part dimensions remain unchanged. See the original LDO folding guide.
