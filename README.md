@@ -14,3 +14,5 @@ Native CNC slot and hinge geometry is retained. Hand-carried parts, including th
 `site/ASSET_INDEX.json` records exact compressed and decoded hashes. Build with `python scripts/build_site.py --output _site`.
 
 Storage display: the V holder is turned over so its spring fittings face upward. The original removed thumb screws are independently inserted into the native left/right storage bores. Hand-carried paths are illustrative; native J-slot and source part dimensions remain unchanged. See the original LDO folding guide.
+
+Both removed thumb screws are dropped vertically into the original storage bores, without threading them. The column screw tip rests at the side-panel top surface; screw dimensions and left/right identities are unchanged.

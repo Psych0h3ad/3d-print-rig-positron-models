@@ -30,3 +30,5 @@ Folding reference: LDO Motion, 10 - Positron V3.2 - Folding
 https://ldomotion.com/guides/10---positron-v32---folding
 
 Storage display: the V holder is turned over so its spring fittings face upward. The original removed thumb screws are independently inserted into the native left/right storage bores. Hand-carried paths are illustrative; native J-slot and source part dimensions remain unchanged. See the original LDO folding guide.
+
+Both removed thumb screws are dropped vertically into the original storage bores, without threading them. The column screw tip rests at the side-panel top surface; screw dimensions and left/right identities are unchanged.
