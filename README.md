@@ -15,4 +15,4 @@ Native CNC slot and hinge geometry is retained. Hand-carried parts, including th
 
 Storage display: the V holder is turned over so its spring fittings face upward. The original removed thumb screws are independently inserted into the native left/right storage bores. Hand-carried paths are illustrative; native J-slot and source part dimensions remain unchanged. See the original LDO folding guide.
 
-Both removed thumb screws are dropped vertically into the original storage bores, without threading them. The column screw tip rests at the side-panel top surface; screw dimensions and left/right identities are unchanged.
+Both original thumb screws are placed vertically in the native storage bores. The column screw is loosely engaged 4.5 mm into the captive M6 storage nut, while remaining above the closed side-panel floor. The V holder rests on the left cornerstone with its spring fittings upward. The gantry is parked along its native Y guide to clear the holder. Original screw dimensions are retained. The nominal M6 shaft overlaps the upstream simplified nut thread, which is reported separately as a source mating contact.
