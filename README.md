@@ -9,6 +9,6 @@ Browser display assets derived from the official assembled Positron V3.2.2 CAD (
 
 Credit Positron 3D Team and LDO Motors; original V3 by Kralyn. Hardware and documentation retain CC BY-SA 4.0. The upstream exception for LDO-manufactured PCB designs also applies; see [the notice](site/NOTICE.txt) and the pinned original repository.
 
-Native CNC slot and hinge geometry is retained. Hand-carried parts use illustrative paths. The master CAD contains no flexible belt or wiring models. Small details are reduced for display, and four invalid native reference leaves remain reference geometry. Finite structural checks are not physical clearance certification.
+Native CNC slot and hinge geometry is retained. Hand-carried parts, including the loose thumbscrews inserted for storage, use illustrative paths. The master CAD contains no flexible belt or wiring models. Display surfaces are rebuilt from native CAD; only small fasteners use reduction after geometry checks. Six built-in print support solids are omitted from the fan nozzle, both spring retaining rings and Z drive housing. The two functional spool-holder pieces remain. Four invalid native reference leaves remain reference geometry. Finite structural checks are not physical clearance certification.
 
 `site/ASSET_INDEX.json` records exact compressed and decoded hashes. Build with `python scripts/build_site.py --output _site`.
